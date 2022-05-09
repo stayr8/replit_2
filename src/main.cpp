@@ -25,6 +25,7 @@ bool init();
 void handleInput();
 void update();
 void render();
+// PC 테스트
 
 int main(int argc, char* argv[])
 {
